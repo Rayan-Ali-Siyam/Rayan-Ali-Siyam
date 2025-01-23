@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a dedicated **Flutter Developer** with over 2 years of
 - **Programming Language:** Dart, Python, C, JavaScript, Swift  
 - **State Management:** GetX, Provider, Bloc  
 - **Databases:** Firebase Firestore, SQLite  
-- **Version Control:** Git  
+- **Version Control:** Git, Bitbucket, GitHub, Sourcetree  
 - **APIs:** RESTful API integration, Firebase integration
 - **Other Skills:** Firebase Authentication, Push Notifications, Localization, Offline Data Sync   
 
